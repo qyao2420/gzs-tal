@@ -1,0 +1,58 @@
+dataset_name: thumos
+train_split: ['validation']
+val_split: ['test']
+description_file_path: ./data/thumos14/Thumos14_description_v6.json
+class_json_file: ./data/thumos14/thumos14_annotations.json
+dataset: {
+  json_file: ./data/thumos14/thumos14_annotations.json,
+  feat_folder: /data-store/zengrh/qianyihao/Datasets/thumos14/InternVideo_feat_8frames,
+  clip_feat_folder: /data-store/zengrh/qianyihao/Datasets/Thumos14/CLIP_feature_8frame,
+  file_prefix: ~,
+  file_ext: .npy,
+  num_classes: 20,
+  input_dim: 768,
+  feat_stride: 8,
+  num_frames: 8,
+  clip_feat_stride: 8, 
+  clip_num_frames: 16, 
+  # serve as data augmentation
+  trunc_thresh: 0.5,
+  crop_ratio: [0.9, 1.0],
+  max_seq_len: 2304,
+}
+devices: ['cuda:7']  # 添加此行指定使用 cuda:6
+model: {
+  fpn_type: identity,
+  max_buffer_len_factor: 6.0,
+  n_mha_win_size: 19,
+  embd_dim: 768,
+  fpn_dim: 768,
+  head_dim: 768,
+}
+opt: {
+  learning_rate: 0.0001,
+  epochs: 80,
+  weight_decay: 0.05,
+}
+loader: {
+  batch_size: 2,
+}
+train_cfg: {
+  init_loss_norm: 100,
+  clip_grad_l2norm: 1.0,
+  cls_prior_prob: 0.01,
+  center_sample: radius,
+  center_sample_radius: 1.5,
+}
+test_cfg: {
+  voting_thresh: 0.7,
+  pre_nms_topk: 2000,
+  max_seg_num: 200, # 200 /
+  min_score: 0.001, # 0.001
+  # when using external scores, our model is generating "proposals"
+  # multiclass_nms: False,
+  # ext_score_file: ./data/thumos/annotations/thumos14_cls_scores.pkl,
+  # comment out L47-48 and uncomment L50 to disable score fusion
+  multiclass_nms: True,
+}
+output_folder: ./ckpt/
