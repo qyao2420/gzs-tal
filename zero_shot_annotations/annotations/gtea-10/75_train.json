@@ -1,0 +1,4233 @@
+{
+    "classes": [
+        "close",
+        "open",
+        "pour",
+        "put",
+        "scoop",
+        "stir",
+        "take"
+    ],
+    "database": {
+        "S4_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        3.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.333333333333333,
+                        5.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.133333333333334,
+                        7.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        8.533333333333333,
+                        15.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        16.4,
+                        17.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        17.066666666666666,
+                        18.133333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        18.4,
+                        20.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        25.333333333333332,
+                        31.2
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        47.06666666666667,
+                        49.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        50.13333333333333,
+                        52.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        53.8,
+                        56.13333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        57.4,
+                        59.06666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        59.06666666666667,
+                        59.53333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        59.666666666666664,
+                        61.06666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        61.06666666666667,
+                        61.53333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        62.0,
+                        65.0
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                },
+                {
+                    "segment": [
+                        65.86666666666666,
+                        67.73333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        67.73333333333333,
+                        69.06666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        70.0,
+                        75.13333333333334
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 76.73333333333333
+        },
+        "S4_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        0.7333333333333333,
+                        5.266666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.066666666666666,
+                        7.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        7.866666666666666,
+                        10.933333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        11.8,
+                        13.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        14.466666666666667,
+                        16.466666666666665
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        20.466666666666665,
+                        22.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        32.13333333333333,
+                        34.93333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        34.93333333333333,
+                        35.8
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        36.06666666666667,
+                        37.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        37.53333333333333,
+                        39.666666666666664
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        40.93333333333333,
+                        48.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        48.4,
+                        51.06666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        51.4,
+                        54.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        54.2,
+                        62.2
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 62.266666666666666
+        },
+        "S4_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.0,
+                        4.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.533333333333333,
+                        6.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.933333333333334,
+                        8.066666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.933333333333334,
+                        11.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        13.333333333333334,
+                        18.066666666666666
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        22.266666666666666,
+                        23.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        31.0,
+                        32.733333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        32.733333333333334,
+                        33.666666666666664
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        33.666666666666664,
+                        34.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        34.8,
+                        37.93333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        53.8,
+                        56.266666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        56.266666666666666,
+                        56.93333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        57.06666666666667,
+                        58.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        58.666666666666664,
+                        60.2
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        62.06666666666667,
+                        69.33333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        69.33333333333333,
+                        70.8
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        70.8,
+                        72.46666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        72.6,
+                        74.66666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        74.8,
+                        82.66666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 82.93333333333334
+        },
+        "S4_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.4666666666666666,
+                        3.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.866666666666666,
+                        8.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        8.533333333333333,
+                        9.933333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        11.333333333333334,
+                        13.133333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        15.066666666666666,
+                        18.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        19.266666666666666,
+                        22.733333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        23.066666666666666,
+                        23.466666666666665
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        23.466666666666665,
+                        25.466666666666665
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        25.533333333333335,
+                        26.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        27.8,
+                        30.266666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        30.466666666666665,
+                        34.06666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        34.13333333333333,
+                        35.13333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        35.13333333333333,
+                        36.8
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 43.666666666666664
+        },
+        "S4_CofHoney_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        3.933333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.866666666666666,
+                        8.133333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        8.6,
+                        9.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        9.466666666666667,
+                        11.666666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        12.733333333333333,
+                        14.466666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        14.6,
+                        15.2
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        15.466666666666667,
+                        17.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        17.0,
+                        17.533333333333335
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        18.133333333333333,
+                        21.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        21.066666666666666,
+                        22.066666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        22.333333333333332,
+                        24.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        24.666666666666668,
+                        26.133333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        27.533333333333335,
+                        34.93333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        36.0,
+                        36.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        36.666666666666664,
+                        37.733333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        37.93333333333333,
+                        39.06666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        39.266666666666666,
+                        42.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        42.93333333333333,
+                        48.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        49.4,
+                        50.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        50.46666666666667,
+                        51.46666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        52.0,
+                        58.0
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 58.06666666666667
+        },
+        "S4_Coffee_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        0.9333333333333333,
+                        3.3333333333333335
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.133333333333334,
+                        6.666666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        7.533333333333333,
+                        8.8
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        8.8,
+                        11.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        13.066666666666666,
+                        16.2
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        16.2,
+                        16.733333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        17.0,
+                        18.466666666666665
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        18.466666666666665,
+                        18.933333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        20.666666666666668,
+                        23.933333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        23.933333333333334,
+                        25.133333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        25.333333333333332,
+                        28.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        28.0,
+                        31.133333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        33.0,
+                        34.6
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        34.6,
+                        35.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        35.86666666666667,
+                        39.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        39.2,
+                        41.06666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        41.333333333333336,
+                        43.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        43.93333333333333,
+                        45.53333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        46.53333333333333,
+                        55.666666666666664
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        56.733333333333334,
+                        57.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        57.6,
+                        58.86666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        59.46666666666667,
+                        64.2
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 64.26666666666667
+        },
+        "S4_Cheese_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        4.866666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.533333333333333,
+                        7.2
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        7.266666666666667,
+                        15.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        15.8,
+                        17.266666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        17.266666666666666,
+                        18.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        19.933333333333334,
+                        21.533333333333335
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        21.733333333333334,
+                        28.933333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        29.0,
+                        30.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        30.066666666666666,
+                        31.866666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        31.866666666666667,
+                        33.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        34.666666666666664,
+                        37.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        37.13333333333333,
+                        40.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        40.733333333333334,
+                        41.8
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        41.8,
+                        43.53333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        43.733333333333334,
+                        45.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        45.733333333333334,
+                        49.333333333333336
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 53.666666666666664
+        },
+        "S3_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        4.2
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.266666666666667,
+                        5.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.733333333333333,
+                        7.666666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        8.2,
+                        18.8
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        18.8,
+                        19.666666666666668
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        19.666666666666668,
+                        21.066666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        21.866666666666667,
+                        26.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        26.733333333333334,
+                        32.666666666666664
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        55.93333333333333,
+                        57.8
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        57.93333333333333,
+                        62.333333333333336
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        63.0,
+                        68.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        69.13333333333334,
+                        71.2
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        71.2,
+                        72.13333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        72.46666666666667,
+                        74.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        74.0,
+                        74.53333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        76.6,
+                        79.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        79.6,
+                        81.26666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        84.66666666666667,
+                        90.6
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 90.73333333333333
+        },
+        "S3_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        4.2
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.333333333333333,
+                        6.133333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.133333333333334,
+                        9.466666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.866666666666667,
+                        12.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        13.0,
+                        15.6
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        27.466666666666665,
+                        31.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        31.066666666666666,
+                        32.333333333333336
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        34.93333333333333,
+                        36.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        36.93333333333333,
+                        39.733333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        45.8,
+                        50.266666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        51.333333333333336,
+                        52.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        52.666666666666664,
+                        54.53333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        55.2,
+                        58.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        58.666666666666664,
+                        61.266666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 64.26666666666667
+        },
+        "S3_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.1333333333333333,
+                        5.133333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.533333333333333,
+                        7.2
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        7.2,
+                        9.133333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.4,
+                        12.333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        13.4,
+                        16.866666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        25.533333333333335,
+                        27.666666666666668
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        27.666666666666668,
+                        28.466666666666665
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        28.466666666666665,
+                        29.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        29.733333333333334,
+                        32.06666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        34.53333333333333,
+                        37.2
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        49.333333333333336,
+                        53.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        53.46666666666667,
+                        54.266666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        54.266666666666666,
+                        55.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        55.733333333333334,
+                        58.733333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        59.86666666666667,
+                        63.06666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        63.666666666666664,
+                        65.06666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        65.06666666666666,
+                        66.4
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        66.66666666666667,
+                        69.93333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        69.93333333333334,
+                        74.26666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 77.93333333333334
+        },
+        "S3_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        3.8666666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.066666666666666,
+                        9.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        9.933333333333334,
+                        12.133333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        12.133333333333333,
+                        14.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        14.066666666666666,
+                        16.066666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        16.4,
+                        31.666666666666668
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        31.733333333333334,
+                        32.8
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        32.8,
+                        33.86666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        33.86666666666667,
+                        35.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        35.53333333333333,
+                        37.733333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        38.6,
+                        47.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        47.4,
+                        49.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        49.2,
+                        50.666666666666664
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 57.46666666666667
+        },
+        "S3_CofHoney_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        3.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.0,
+                        7.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        7.533333333333333,
+                        9.6
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        12.333333333333334,
+                        14.666666666666666
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        14.666666666666666,
+                        15.266666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        15.666666666666666,
+                        17.533333333333335
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        17.533333333333335,
+                        18.666666666666668
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        19.866666666666667,
+                        22.866666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        22.866666666666667,
+                        23.6
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        23.666666666666668,
+                        25.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        25.933333333333334,
+                        27.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        28.933333333333334,
+                        36.6
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        36.86666666666667,
+                        37.8
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        37.8,
+                        39.06666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        39.46666666666667,
+                        41.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        41.46666666666667,
+                        43.13333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        43.86666666666667,
+                        49.13333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        49.13333333333333,
+                        50.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        50.46666666666667,
+                        51.733333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        53.2,
+                        59.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 59.46666666666667
+        },
+        "S3_Coffee_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        6.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        7.733333333333333,
+                        9.333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        9.6,
+                        11.333333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        12.0,
+                        15.266666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        15.4,
+                        17.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        17.8,
+                        18.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        18.733333333333334,
+                        20.4
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        20.4,
+                        21.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        22.866666666666667,
+                        26.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        26.2,
+                        28.0
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        29.333333333333332,
+                        31.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        33.13333333333333,
+                        36.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        38.06666666666667,
+                        40.13333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        40.13333333333333,
+                        40.86666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        41.13333333333333,
+                        42.6
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        42.6,
+                        43.2
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        45.13333333333333,
+                        47.4
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        47.4,
+                        49.13333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        49.46666666666667,
+                        50.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        51.266666666666666,
+                        53.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        53.8,
+                        67.6
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        68.06666666666666,
+                        69.13333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        69.13333333333334,
+                        70.6
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        72.2,
+                        72.6
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 79.33333333333333
+        },
+        "S3_Cheese_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2666666666666666,
+                        4.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.6,
+                        8.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        8.2,
+                        16.466666666666665
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        16.733333333333334,
+                        18.4
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        21.0,
+                        23.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        23.0,
+                        25.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        26.133333333333333,
+                        33.46666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        34.06666666666667,
+                        35.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        35.46666666666667,
+                        36.86666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        36.86666666666667,
+                        38.06666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        38.13333333333333,
+                        39.733333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        41.53333333333333,
+                        48.06666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        48.06666666666667,
+                        49.333333333333336
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        49.333333333333336,
+                        50.4
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        50.733333333333334,
+                        53.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        54.06666666666667,
+                        55.733333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 60.86666666666667
+        },
+        "S2_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.1333333333333333,
+                        3.1333333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.733333333333333,
+                        6.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.8,
+                        8.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.733333333333333,
+                        25.6
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        26.133333333333333,
+                        27.466666666666665
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        27.466666666666665,
+                        28.866666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        29.266666666666666,
+                        30.8
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        35.2,
+                        36.4
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        36.733333333333334,
+                        43.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        60.13333333333333,
+                        61.8
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        62.0,
+                        64.06666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        64.66666666666667,
+                        68.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        70.6,
+                        72.93333333333334
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        73.13333333333334,
+                        74.53333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        74.6,
+                        76.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        76.8,
+                        77.73333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        78.46666666666667,
+                        80.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        80.6,
+                        82.73333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        83.33333333333333,
+                        91.66666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 94.13333333333334
+        },
+        "S2_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.1333333333333333,
+                        3.7333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        3.8666666666666667,
+                        11.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        12.266666666666667,
+                        14.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        15.333333333333334,
+                        20.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        22.6,
+                        26.333333333333332
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        35.6,
+                        39.53333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        52.2,
+                        61.0
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        61.0,
+                        62.53333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        62.733333333333334,
+                        64.13333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        67.26666666666667,
+                        69.86666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        73.4,
+                        80.46666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        82.46666666666667,
+                        83.93333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        83.93333333333334,
+                        84.8
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        84.86666666666666,
+                        87.26666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        87.26666666666667,
+                        90.66666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 97.66666666666667
+        },
+        "S2_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        6.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.733333333333333,
+                        11.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        12.0,
+                        13.666666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        14.266666666666667,
+                        15.466666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        17.333333333333332,
+                        19.333333333333332
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        22.2,
+                        23.933333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        24.133333333333333,
+                        25.133333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        36.06666666666667,
+                        37.2
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        37.266666666666666,
+                        39.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        41.6,
+                        43.53333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        44.53333333333333,
+                        47.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        47.666666666666664,
+                        48.46666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        57.0,
+                        58.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        59.8,
+                        61.53333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        61.8,
+                        65.06666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        65.6,
+                        66.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        66.46666666666667,
+                        67.73333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        68.2,
+                        72.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        73.33333333333333,
+                        77.33333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 78.73333333333333
+        },
+        "S2_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.0,
+                        3.8
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.133333333333334,
+                        12.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        12.466666666666667,
+                        13.8
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        17.266666666666666,
+                        18.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        19.133333333333333,
+                        21.533333333333335
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        21.733333333333334,
+                        27.133333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        27.2,
+                        29.666666666666668
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        29.666666666666668,
+                        30.933333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        31.0,
+                        32.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        35.53333333333333,
+                        37.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        37.0,
+                        40.733333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        40.733333333333334,
+                        42.53333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        42.666666666666664,
+                        44.6
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 54.06666666666667
+        },
+        "S2_CofHoney_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        0.4666666666666667,
+                        2.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        3.2,
+                        4.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.6,
+                        8.133333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        8.733333333333333,
+                        10.066666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        11.866666666666667,
+                        13.266666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        13.266666666666667,
+                        14.133333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        14.133333333333333,
+                        15.2
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        15.266666666666667,
+                        16.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        17.133333333333333,
+                        18.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        18.6,
+                        19.933333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        20.2,
+                        21.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        21.6,
+                        23.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        23.333333333333332,
+                        34.666666666666664
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        34.86666666666667,
+                        35.53333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        35.53333333333333,
+                        36.666666666666664
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        36.8,
+                        37.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        37.86666666666667,
+                        40.86666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        41.4,
+                        44.8
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        45.2,
+                        46.0
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        46.0,
+                        46.86666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        47.46666666666667,
+                        53.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 54.86666666666667
+        },
+        "S2_Coffee_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.5333333333333334,
+                        5.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.133333333333334,
+                        8.666666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        9.533333333333333,
+                        14.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        15.8,
+                        19.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        20.6,
+                        26.4
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        26.466666666666665,
+                        27.866666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        28.266666666666666,
+                        29.333333333333332
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        29.333333333333332,
+                        31.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        31.4,
+                        36.0
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        36.0,
+                        38.266666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        40.8,
+                        44.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        44.0,
+                        47.266666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        49.13333333333333,
+                        62.666666666666664
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        63.266666666666666,
+                        64.93333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        64.93333333333334,
+                        66.46666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        66.66666666666667,
+                        69.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        70.53333333333333,
+                        84.13333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        90.46666666666667,
+                        92.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        92.8,
+                        94.26666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        96.33333333333333,
+                        98.86666666666666
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        98.86666666666666,
+                        100.33333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        101.93333333333334,
+                        106.73333333333333
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                },
+                {
+                    "segment": [
+                        107.73333333333333,
+                        109.73333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        109.73333333333333,
+                        112.13333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        113.0,
+                        119.0
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 120.93333333333334
+        },
+        "S2_Cheese_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        0.6666666666666666,
+                        4.333333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.733333333333333,
+                        7.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        7.333333333333333,
+                        11.333333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        11.333333333333334,
+                        13.133333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        13.133333333333333,
+                        14.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        14.466666666666667,
+                        15.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        16.8,
+                        22.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        22.133333333333333,
+                        23.0
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        23.0,
+                        24.066666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        24.066666666666666,
+                        24.8
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        24.8,
+                        26.6
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        26.6,
+                        29.533333333333335
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        29.6,
+                        30.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        30.6,
+                        31.666666666666668
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        32.13333333333333,
+                        35.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        35.6,
+                        38.666666666666664
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 42.266666666666666
+        },
+        "S1_Tea_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        0.7333333333333333,
+                        3.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.6,
+                        6.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.0,
+                        8.066666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        8.066666666666666,
+                        20.333333333333332
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        21.266666666666666,
+                        22.466666666666665
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        22.466666666666665,
+                        23.466666666666665
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        23.8,
+                        25.8
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        30.866666666666667,
+                        32.46666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        33.13333333333333,
+                        47.46666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        94.66666666666667,
+                        96.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        97.13333333333334,
+                        99.46666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        102.53333333333333,
+                        104.26666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        105.33333333333333,
+                        108.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        108.0,
+                        109.33333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        109.4,
+                        111.33333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        111.33333333333333,
+                        112.13333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        114.0,
+                        116.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        116.2,
+                        118.8
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        119.73333333333333,
+                        128.66666666666666
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 133.93333333333334
+        },
+        "S1_Peanut_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        1.5333333333333334,
+                        5.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.4,
+                        8.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        8.6,
+                        12.333333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        14.933333333333334,
+                        17.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        18.6,
+                        24.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        56.666666666666664,
+                        58.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        60.4,
+                        66.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        66.46666666666667,
+                        69.0
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        69.8,
+                        70.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        70.4,
+                        71.86666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        74.0,
+                        90.73333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        91.73333333333333,
+                        93.33333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        93.33333333333333,
+                        94.86666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        95.53333333333333,
+                        98.26666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        98.26666666666667,
+                        103.33333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 109.53333333333333
+        },
+        "S1_Pealate_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        3.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.733333333333333,
+                        5.8
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.8,
+                        7.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        8.0,
+                        14.0
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        15.533333333333333,
+                        19.266666666666666
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        31.4,
+                        33.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        33.6,
+                        35.4
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        35.4,
+                        36.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        36.2,
+                        38.266666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        40.333333333333336,
+                        42.4
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        56.13333333333333,
+                        60.733333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        60.733333333333334,
+                        61.733333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        61.733333333333334,
+                        62.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        62.46666666666667,
+                        65.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        67.53333333333333,
+                        71.73333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        74.0,
+                        75.13333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        75.13333333333334,
+                        76.0
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        77.4,
+                        81.13333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        81.26666666666667,
+                        88.46666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 92.26666666666667
+        },
+        "S1_Hotdog_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        1.0666666666666667,
+                        4.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.466666666666667,
+                        8.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        8.066666666666666,
+                        9.533333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        10.2,
+                        11.333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        11.333333333333334,
+                        13.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        13.133333333333333,
+                        22.066666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        22.133333333333333,
+                        23.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        23.066666666666666,
+                        24.4
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        24.4,
+                        25.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        26.2,
+                        28.333333333333332
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        29.066666666666666,
+                        31.466666666666665
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        31.466666666666665,
+                        32.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        32.2,
+                        34.2
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 47.86666666666667
+        },
+        "S1_CofHoney_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        3.2
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.8,
+                        7.133333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        7.133333333333334,
+                        9.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        10.6,
+                        14.2
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        16.8,
+                        20.666666666666668
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        20.866666666666667,
+                        22.333333333333332
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        22.666666666666668,
+                        25.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        25.066666666666666,
+                        26.2
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        27.4,
+                        31.733333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        31.733333333333334,
+                        33.53333333333333
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        34.06666666666667,
+                        35.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        35.53333333333333,
+                        37.2
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        37.53333333333333,
+                        47.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        47.4,
+                        48.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        48.666666666666664,
+                        50.46666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        52.266666666666666,
+                        53.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        53.53333333333333,
+                        55.266666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        55.53333333333333,
+                        61.8
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        62.06666666666667,
+                        63.733333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        63.733333333333334,
+                        65.13333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        66.4,
+                        79.8
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 82.33333333333333
+        },
+        "S1_Coffee_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        0.8666666666666667,
+                        2.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        4.333333333333333,
+                        5.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        5.733333333333333,
+                        8.333333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.666666666666666,
+                        13.666666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        15.733333333333333,
+                        18.4
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        18.533333333333335,
+                        19.466666666666665
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        19.733333333333334,
+                        21.533333333333335
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        21.533333333333335,
+                        22.733333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        24.6,
+                        27.533333333333335
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        27.533333333333335,
+                        28.933333333333334
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        29.133333333333333,
+                        30.6
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        30.6,
+                        32.46666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        34.6,
+                        37.46666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        37.46666666666667,
+                        38.46666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        38.733333333333334,
+                        40.93333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        40.93333333333333,
+                        41.666666666666664
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        43.666666666666664,
+                        46.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        46.6,
+                        47.86666666666667
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        48.0,
+                        49.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        49.2,
+                        51.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        51.46666666666667,
+                        61.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        61.266666666666666,
+                        62.6
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        62.6,
+                        64.06666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        65.26666666666667,
+                        72.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 5
+                }
+            ],
+            "fps": 15.0,
+            "duration": 78.53333333333333
+        },
+        "S1_Cheese_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        0.8,
+                        4.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        6.6,
+                        11.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        11.4,
+                        17.866666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        17.866666666666667,
+                        20.2
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        20.333333333333332,
+                        21.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        23.266666666666666,
+                        24.666666666666668
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        25.266666666666666,
+                        31.266666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        31.266666666666666,
+                        32.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        32.666666666666664,
+                        34.333333333333336
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        34.333333333333336,
+                        35.4
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        35.733333333333334,
+                        38.93333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        39.13333333333333,
+                        43.266666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        43.93333333333333,
+                        45.333333333333336
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        45.333333333333336,
+                        46.266666666666666
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        46.6,
+                        49.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 6
+                },
+                {
+                    "segment": [
+                        49.86666666666667,
+                        52.666666666666664
+                    ],
+                    "label": "put",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 62.86666666666667
+        }
+    }
+}

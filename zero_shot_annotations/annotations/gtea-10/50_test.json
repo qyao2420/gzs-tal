@@ -1,0 +1,1951 @@
+{
+    "classes": [
+        "scoop",
+        "shake",
+        "spread",
+        "stir",
+        "take"
+    ],
+    "database": {
+        "S4_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        3.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.333333333333333,
+                        5.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        18.4,
+                        20.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        33.666666666666664,
+                        45.2
+                    ],
+                    "label": "shake",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        47.06666666666667,
+                        49.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        50.13333333333333,
+                        52.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        57.4,
+                        59.06666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        59.666666666666664,
+                        61.06666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        62.0,
+                        65.0
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        70.0,
+                        75.13333333333334
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 76.73333333333333
+        },
+        "S4_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        0.7333333333333333,
+                        5.266666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        6.066666666666666,
+                        7.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        11.8,
+                        13.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        14.466666666666667,
+                        16.466666666666665
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        17.333333333333332,
+                        20.0
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        20.466666666666665,
+                        22.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        24.066666666666666,
+                        30.666666666666668
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        36.06666666666667,
+                        37.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        51.4,
+                        54.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 62.266666666666666
+        },
+        "S4_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.0,
+                        4.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        5.533333333333333,
+                        6.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        9.933333333333334,
+                        11.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        13.333333333333334,
+                        18.066666666666666
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        18.2,
+                        20.0
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        22.266666666666666,
+                        23.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        23.933333333333334,
+                        29.0
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        33.666666666666664,
+                        34.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        39.2,
+                        52.93333333333333
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        57.06666666666667,
+                        58.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        72.6,
+                        74.66666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 82.93333333333334
+        },
+        "S4_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.4666666666666666,
+                        3.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.866666666666666,
+                        8.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        11.333333333333334,
+                        13.133333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        25.533333333333335,
+                        26.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 43.666666666666664
+        },
+        "S4_CofHoney_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        3.933333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.866666666666666,
+                        8.133333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        8.6,
+                        9.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        12.733333333333333,
+                        14.466666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        15.466666666666667,
+                        17.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        22.333333333333332,
+                        24.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        37.93333333333333,
+                        39.06666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        52.0,
+                        58.0
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 58.06666666666667
+        },
+        "S4_Coffee_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        0.9333333333333333,
+                        3.3333333333333335
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        5.133333333333334,
+                        6.666666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        7.533333333333333,
+                        8.8
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        13.066666666666666,
+                        16.2
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        17.0,
+                        18.466666666666665
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        25.333333333333332,
+                        28.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        33.0,
+                        34.6
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        41.333333333333336,
+                        43.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        59.46666666666667,
+                        64.2
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 64.26666666666667
+        },
+        "S4_Cheese_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        4.866666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        5.533333333333333,
+                        7.2
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        17.266666666666666,
+                        18.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        31.866666666666667,
+                        33.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        43.733333333333334,
+                        45.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 53.666666666666664
+        },
+        "S3_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        4.2
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.266666666666667,
+                        5.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        21.866666666666667,
+                        26.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        34.4,
+                        51.06666666666667
+                    ],
+                    "label": "shake",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        55.93333333333333,
+                        57.8
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        63.0,
+                        68.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        69.13333333333334,
+                        71.2
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        72.46666666666667,
+                        74.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        84.66666666666667,
+                        90.6
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 90.73333333333333
+        },
+        "S3_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        4.2
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.333333333333333,
+                        6.133333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        9.866666666666667,
+                        12.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        13.0,
+                        15.6
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        16.266666666666666,
+                        25.666666666666668
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        34.93333333333333,
+                        36.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        55.2,
+                        58.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 64.26666666666667
+        },
+        "S3_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.1333333333333333,
+                        5.133333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        5.533333333333333,
+                        7.2
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        9.4,
+                        12.333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        13.4,
+                        16.866666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        18.533333333333335,
+                        24.6
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        28.466666666666665,
+                        29.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        34.53333333333333,
+                        37.2
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        38.6,
+                        48.333333333333336
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        54.266666666666666,
+                        55.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        66.66666666666667,
+                        69.93333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 77.93333333333334
+        },
+        "S3_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        3.8666666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        5.066666666666666,
+                        9.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        12.133333333333333,
+                        14.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        33.86666666666667,
+                        35.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 57.46666666666667
+        },
+        "S3_CofHoney_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        3.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.0,
+                        7.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        12.333333333333334,
+                        14.666666666666666
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        15.666666666666666,
+                        17.533333333333335
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        23.666666666666668,
+                        25.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        39.46666666666667,
+                        41.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        53.2,
+                        59.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 59.46666666666667
+        },
+        "S3_Coffee_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        6.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        7.733333333333333,
+                        9.333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        12.0,
+                        15.266666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        15.4,
+                        17.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        18.733333333333334,
+                        20.4
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        29.333333333333332,
+                        31.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        38.06666666666667,
+                        40.13333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        41.13333333333333,
+                        42.6
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        49.46666666666667,
+                        50.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        72.2,
+                        72.6
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 79.33333333333333
+        },
+        "S3_Cheese_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2666666666666666,
+                        4.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        5.6,
+                        8.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        21.0,
+                        23.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        36.86666666666667,
+                        38.06666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        50.733333333333334,
+                        53.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 60.86666666666667
+        },
+        "S2_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.1333333333333333,
+                        3.1333333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.733333333333333,
+                        6.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        29.266666666666666,
+                        30.8
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        45.93333333333333,
+                        58.53333333333333
+                    ],
+                    "label": "shake",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        60.13333333333333,
+                        61.8
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        64.66666666666667,
+                        68.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        70.6,
+                        72.93333333333334
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        74.6,
+                        76.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        83.33333333333333,
+                        91.66666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 94.13333333333334
+        },
+        "S2_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.1333333333333333,
+                        3.7333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        3.8666666666666667,
+                        11.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        12.266666666666667,
+                        14.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        22.6,
+                        26.333333333333332
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        26.6,
+                        35.333333333333336
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        35.6,
+                        39.53333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        39.53333333333333,
+                        50.333333333333336
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        62.733333333333334,
+                        64.13333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        84.86666666666666,
+                        87.26666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 97.66666666666667
+        },
+        "S2_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        6.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        6.733333333333333,
+                        11.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        12.0,
+                        13.666666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        17.333333333333332,
+                        19.333333333333332
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        27.933333333333334,
+                        36.0
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        36.06666666666667,
+                        37.2
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        41.6,
+                        43.53333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        49.8,
+                        56.13333333333333
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        57.0,
+                        58.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        68.2,
+                        72.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 78.73333333333333
+        },
+        "S2_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.0,
+                        3.8
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        6.133333333333334,
+                        12.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        17.266666666666666,
+                        18.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        31.0,
+                        32.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 54.06666666666667
+        },
+        "S2_CofHoney_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        0.4666666666666667,
+                        2.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        3.2,
+                        4.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.6,
+                        8.133333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        11.866666666666667,
+                        13.266666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        14.133333333333333,
+                        15.2
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        20.2,
+                        21.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        36.8,
+                        37.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        47.46666666666667,
+                        53.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 54.86666666666667
+        },
+        "S2_Coffee_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        1.5333333333333334,
+                        5.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        6.133333333333334,
+                        8.666666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        9.533333333333333,
+                        14.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        20.6,
+                        26.4
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        28.266666666666666,
+                        29.333333333333332
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        40.8,
+                        44.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        66.66666666666667,
+                        69.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        90.46666666666667,
+                        92.8
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        96.33333333333333,
+                        98.86666666666666
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        101.93333333333334,
+                        106.73333333333333
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                },
+                {
+                    "segment": [
+                        113.0,
+                        119.0
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 120.93333333333334
+        },
+        "S2_Cheese_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        0.6666666666666666,
+                        4.333333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.733333333333333,
+                        7.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        13.133333333333333,
+                        14.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        24.066666666666666,
+                        24.8
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        32.13333333333333,
+                        35.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 42.266666666666666
+        },
+        "S1_Tea_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        0.7333333333333333,
+                        3.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.6,
+                        6.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        23.8,
+                        25.8
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        50.266666666666666,
+                        93.33333333333333
+                    ],
+                    "label": "shake",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        94.66666666666667,
+                        96.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        102.53333333333333,
+                        104.26666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        105.33333333333333,
+                        108.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        109.4,
+                        111.33333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        119.73333333333333,
+                        128.66666666666666
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 133.93333333333334
+        },
+        "S1_Peanut_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        1.5333333333333334,
+                        5.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        6.4,
+                        8.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        14.933333333333334,
+                        17.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        18.6,
+                        24.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        25.333333333333332,
+                        51.6
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        56.666666666666664,
+                        58.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        69.8,
+                        70.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        95.53333333333333,
+                        98.26666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 109.53333333333333
+        },
+        "S1_Pealate_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        3.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.733333333333333,
+                        5.8
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        8.0,
+                        14.0
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        15.533333333333333,
+                        19.266666666666666
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        20.333333333333332,
+                        30.333333333333332
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        35.4,
+                        36.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        40.333333333333336,
+                        42.4
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        44.13333333333333,
+                        54.46666666666667
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        61.733333333333334,
+                        62.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        77.4,
+                        81.13333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 92.26666666666667
+        },
+        "S1_Hotdog_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        1.0666666666666667,
+                        4.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        5.466666666666667,
+                        8.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        10.2,
+                        11.333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        24.4,
+                        25.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 47.86666666666667
+        },
+        "S1_CofHoney_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        3.2
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        5.8,
+                        7.133333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        10.6,
+                        14.2
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        16.8,
+                        20.666666666666668
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        22.666666666666668,
+                        25.0
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        34.06666666666667,
+                        35.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        52.266666666666666,
+                        53.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        66.4,
+                        79.8
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 82.33333333333333
+        },
+        "S1_Coffee_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        0.8666666666666667,
+                        2.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        4.333333333333333,
+                        5.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        9.666666666666666,
+                        13.666666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        15.733333333333333,
+                        18.4
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        19.733333333333334,
+                        21.533333333333335
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        29.133333333333333,
+                        30.6
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        34.6,
+                        37.46666666666667
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        38.733333333333334,
+                        40.93333333333333
+                    ],
+                    "label": "scoop",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        48.0,
+                        49.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        65.26666666666667,
+                        72.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 3
+                }
+            ],
+            "fps": 15.0,
+            "duration": 78.53333333333333
+        },
+        "S1_Cheese_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        0.8,
+                        4.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        6.6,
+                        11.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        20.333333333333332,
+                        21.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        34.333333333333336,
+                        35.4
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                },
+                {
+                    "segment": [
+                        46.6,
+                        49.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 4
+                }
+            ],
+            "fps": 15.0,
+            "duration": 62.86666666666667
+        }
+    }
+}

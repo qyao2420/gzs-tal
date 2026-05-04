@@ -1,0 +1,305 @@
+{
+    "classes": [
+        "fold",
+        "shake",
+        "spread"
+    ],
+    "database": {
+        "S4_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        33.666666666666664,
+                        45.2
+                    ],
+                    "label": "shake",
+                    "label_id": 1
+                }
+            ],
+            "fps": 15.0,
+            "duration": 76.73333333333333
+        },
+        "S4_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        17.333333333333332,
+                        20.0
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        24.066666666666666,
+                        30.666666666666668
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                }
+            ],
+            "fps": 15.0,
+            "duration": 62.266666666666666
+        },
+        "S4_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        18.2,
+                        20.0
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        23.933333333333334,
+                        29.0
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        39.2,
+                        52.93333333333333
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                }
+            ],
+            "fps": 15.0,
+            "duration": 82.93333333333334
+        },
+        "S4_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        37.2,
+                        42.93333333333333
+                    ],
+                    "label": "fold",
+                    "label_id": 0
+                }
+            ],
+            "fps": 15.0,
+            "duration": 43.666666666666664
+        },
+        "S3_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        34.4,
+                        51.06666666666667
+                    ],
+                    "label": "shake",
+                    "label_id": 1
+                }
+            ],
+            "fps": 15.0,
+            "duration": 90.73333333333333
+        },
+        "S3_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        16.266666666666666,
+                        25.666666666666668
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                }
+            ],
+            "fps": 15.0,
+            "duration": 64.26666666666667
+        },
+        "S3_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        18.533333333333335,
+                        24.6
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        38.6,
+                        48.333333333333336
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                }
+            ],
+            "fps": 15.0,
+            "duration": 77.93333333333334
+        },
+        "S3_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        51.53333333333333,
+                        55.46666666666667
+                    ],
+                    "label": "fold",
+                    "label_id": 0
+                }
+            ],
+            "fps": 15.0,
+            "duration": 57.46666666666667
+        },
+        "S2_Tea_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        45.93333333333333,
+                        58.53333333333333
+                    ],
+                    "label": "shake",
+                    "label_id": 1
+                }
+            ],
+            "fps": 15.0,
+            "duration": 94.13333333333334
+        },
+        "S2_Peanut_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        26.6,
+                        35.333333333333336
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        39.53333333333333,
+                        50.333333333333336
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                }
+            ],
+            "fps": 15.0,
+            "duration": 97.66666666666667
+        },
+        "S2_Pealate_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        27.933333333333334,
+                        36.0
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        49.8,
+                        56.13333333333333
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                }
+            ],
+            "fps": 15.0,
+            "duration": 78.73333333333333
+        },
+        "S2_Hotdog_C1": {
+            "subset": "train",
+            "annotations": [
+                {
+                    "segment": [
+                        45.0,
+                        48.53333333333333
+                    ],
+                    "label": "fold",
+                    "label_id": 0
+                }
+            ],
+            "fps": 15.0,
+            "duration": 54.06666666666667
+        },
+        "S1_Tea_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        50.266666666666666,
+                        93.33333333333333
+                    ],
+                    "label": "shake",
+                    "label_id": 1
+                }
+            ],
+            "fps": 15.0,
+            "duration": 133.93333333333334
+        },
+        "S1_Peanut_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        25.333333333333332,
+                        51.6
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                }
+            ],
+            "fps": 15.0,
+            "duration": 109.53333333333333
+        },
+        "S1_Pealate_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        20.333333333333332,
+                        30.333333333333332
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        44.13333333333333,
+                        54.46666666666667
+                    ],
+                    "label": "spread",
+                    "label_id": 2
+                }
+            ],
+            "fps": 15.0,
+            "duration": 92.26666666666667
+        },
+        "S1_Hotdog_C1": {
+            "subset": "test",
+            "annotations": [
+                {
+                    "segment": [
+                        35.0,
+                        39.53333333333333
+                    ],
+                    "label": "fold",
+                    "label_id": 0
+                }
+            ],
+            "fps": 15.0,
+            "duration": 47.86666666666667
+        }
+    }
+}

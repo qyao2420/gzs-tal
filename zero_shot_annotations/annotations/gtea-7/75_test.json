@@ -1,0 +1,1410 @@
+{
+    "classes": [
+        "stir",
+        "take"
+    ],
+    "version": "1.0",
+    "taxomony": "",
+    "database": {
+        "S3_Pealate_C1": {
+            "duration": 77.86666666666666,
+            "subset": "training",
+            "num_frames": 1168,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        5.133333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        5.6,
+                        7.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.466666666666667,
+                        12.333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        28.533333333333335,
+                        29.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        54.333333333333336,
+                        55.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        66.73333333333333,
+                        69.93333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S4_Hotdog_C1": {
+            "duration": 43.6,
+            "subset": "training",
+            "num_frames": 654,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.5333333333333334,
+                        3.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.933333333333334,
+                        8.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        11.4,
+                        13.133333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        25.6,
+                        26.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S2_Cheese_C1": {
+            "duration": 42.2,
+            "subset": "training",
+            "num_frames": 633,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        0.7333333333333333,
+                        4.333333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.8,
+                        7.0
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        13.2,
+                        14.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        24.133333333333333,
+                        24.8
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        32.2,
+                        35.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S1_Pealate_C1": {
+            "duration": 92.2,
+            "subset": "training",
+            "num_frames": 1383,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.4666666666666666,
+                        3.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.8,
+                        5.8
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        8.066666666666666,
+                        14.0
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        35.46666666666667,
+                        36.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        61.8,
+                        62.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        77.46666666666667,
+                        81.13333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S1_Coffee_C1": {
+            "duration": 78.46666666666667,
+            "subset": "training",
+            "num_frames": 1177,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        0.9333333333333333,
+                        2.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.4,
+                        5.866666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.733333333333333,
+                        13.666666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        29.2,
+                        30.666666666666668
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        48.06666666666667,
+                        49.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        65.33333333333333,
+                        72.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Tea_C1": {
+            "duration": 94.06666666666666,
+            "subset": "validation",
+            "num_frames": 1411,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        3.1333333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.8,
+                        6.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        29.333333333333332,
+                        30.8
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        60.2,
+                        61.8
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        64.73333333333333,
+                        68.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        83.4,
+                        91.66666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_Coffee_C1": {
+            "duration": 79.26666666666667,
+            "subset": "training",
+            "num_frames": 1189,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        6.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        7.8,
+                        9.333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        12.066666666666666,
+                        15.266666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        29.4,
+                        31.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        49.53333333333333,
+                        50.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        72.26666666666667,
+                        72.6
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Peanut_C1": {
+            "duration": 109.46666666666667,
+            "subset": "validation",
+            "num_frames": 1642,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.6,
+                        5.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        6.466666666666667,
+                        8.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        15.0,
+                        17.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        56.733333333333334,
+                        58.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        69.86666666666666,
+                        70.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        95.6,
+                        98.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S4_Pealate_C1": {
+            "duration": 82.86666666666666,
+            "subset": "validation",
+            "num_frames": 1243,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.0666666666666667,
+                        4.0
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        5.6,
+                        6.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        10.0,
+                        11.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        33.733333333333334,
+                        34.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        57.13333333333333,
+                        58.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        72.66666666666667,
+                        74.66666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S3_Tea_C1": {
+            "duration": 90.66666666666667,
+            "subset": "validation",
+            "num_frames": 1360,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        4.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.333333333333333,
+                        5.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        21.933333333333334,
+                        26.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        56.0,
+                        57.8
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        63.06666666666667,
+                        68.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        84.73333333333333,
+                        90.6
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Tea_C1": {
+            "duration": 76.66666666666667,
+            "subset": "training",
+            "num_frames": 1150,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.2666666666666666,
+                        3.6666666666666665
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.4,
+                        5.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        18.466666666666665,
+                        20.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        47.13333333333333,
+                        52.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        62.06666666666667,
+                        65.0
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        70.06666666666666,
+                        75.13333333333334
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Coffee_C1": {
+            "duration": 64.2,
+            "subset": "training",
+            "num_frames": 963,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.0,
+                        3.3333333333333335
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        5.2,
+                        8.8
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        25.4,
+                        28.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        41.4,
+                        43.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        59.53333333333333,
+                        64.2
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_CofHoney_C1": {
+            "duration": 59.4,
+            "subset": "training",
+            "num_frames": 891,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        3.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.066666666666666,
+                        7.666666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        23.733333333333334,
+                        25.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        39.53333333333333,
+                        41.0
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        53.266666666666666,
+                        59.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Cheese_C1": {
+            "duration": 62.8,
+            "subset": "training",
+            "num_frames": 942,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        0.8666666666666667,
+                        4.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        6.666666666666667,
+                        11.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        20.4,
+                        21.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        34.4,
+                        35.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        46.666666666666664,
+                        49.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S4_CofHoney_C1": {
+            "duration": 58.0,
+            "subset": "training",
+            "num_frames": 870,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.2666666666666666,
+                        3.933333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.933333333333334,
+                        9.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        22.4,
+                        24.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        38.0,
+                        39.06666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        52.06666666666667,
+                        58.0
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Coffee_C1": {
+            "duration": 120.86666666666666,
+            "subset": "validation",
+            "num_frames": 1813,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.6,
+                        5.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        6.2,
+                        14.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        40.86666666666667,
+                        44.0
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        66.73333333333333,
+                        69.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        102.0,
+                        106.73333333333333
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        113.06666666666666,
+                        119.0
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Pealate_C1": {
+            "duration": 78.66666666666667,
+            "subset": "training",
+            "num_frames": 1180,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.2666666666666666,
+                        6.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        6.8,
+                        13.666666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        36.13333333333333,
+                        37.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        57.06666666666667,
+                        58.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        68.26666666666667,
+                        72.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S3_Cheese_C1": {
+            "duration": 60.8,
+            "subset": "training",
+            "num_frames": 912,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.3333333333333333,
+                        4.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        5.666666666666667,
+                        8.0
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        21.066666666666666,
+                        23.266666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        36.93333333333333,
+                        38.06666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        50.8,
+                        53.733333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S1_Hotdog_C1": {
+            "duration": 47.8,
+            "subset": "training",
+            "num_frames": 717,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.1333333333333333,
+                        4.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        5.533333333333333,
+                        8.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        10.266666666666667,
+                        11.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        24.466666666666665,
+                        25.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S3_Hotdog_C1": {
+            "duration": 57.4,
+            "subset": "training",
+            "num_frames": 861,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        3.8666666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        5.133333333333334,
+                        10.0
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        12.2,
+                        14.066666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        33.93333333333333,
+                        35.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S4_Cheese_C1": {
+            "duration": 53.6,
+            "subset": "validation",
+            "num_frames": 804,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.4,
+                        4.866666666666666
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        5.6,
+                        7.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        17.333333333333332,
+                        18.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        31.933333333333334,
+                        33.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        43.8,
+                        45.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S2_CofHoney_C1": {
+            "duration": 54.8,
+            "subset": "training",
+            "num_frames": 822,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        0.5333333333333333,
+                        2.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        3.2666666666666666,
+                        8.133333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        20.266666666666666,
+                        21.4
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        36.86666666666667,
+                        37.86666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        47.53333333333333,
+                        53.46666666666667
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Peanut_C1": {
+            "duration": 62.2,
+            "subset": "training",
+            "num_frames": 933,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        0.8,
+                        5.266666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        6.133333333333334,
+                        7.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        11.866666666666667,
+                        13.533333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        36.13333333333333,
+                        37.53333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        51.46666666666667,
+                        54.13333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S1_CofHoney_C1": {
+            "duration": 82.26666666666667,
+            "subset": "training",
+            "num_frames": 1234,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.2666666666666666,
+                        3.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        5.866666666666666,
+                        7.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        10.666666666666666,
+                        14.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        34.13333333333333,
+                        35.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        52.333333333333336,
+                        53.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        66.46666666666667,
+                        79.8
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Tea_C1": {
+            "duration": 133.86666666666667,
+            "subset": "validation",
+            "num_frames": 2008,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        0.8,
+                        3.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.666666666666667,
+                        6.0
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        23.866666666666667,
+                        25.8
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        94.73333333333333,
+                        96.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        102.6,
+                        104.26666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        119.8,
+                        128.66666666666666
+                    ],
+                    "label": "stir",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_Peanut_C1": {
+            "duration": 64.2,
+            "subset": "training",
+            "num_frames": 963,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.4666666666666666,
+                        4.2
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        4.4,
+                        6.133333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.933333333333334,
+                        12.933333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        35.0,
+                        36.46666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        55.266666666666666,
+                        58.666666666666664
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S2_Peanut_C1": {
+            "duration": 97.6,
+            "subset": "training",
+            "num_frames": 1464,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.2,
+                        3.7333333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        3.933333333333333,
+                        14.733333333333333
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        62.8,
+                        64.13333333333334
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        84.93333333333334,
+                        87.26666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        },
+        "S2_Hotdog_C1": {
+            "duration": 54.0,
+            "subset": "training",
+            "num_frames": 810,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        1.0666666666666667,
+                        3.8
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        6.2,
+                        12.466666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        17.333333333333332,
+                        18.866666666666667
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        31.066666666666666,
+                        32.6
+                    ],
+                    "label": "take",
+                    "label_id": 1
+                }
+            ]
+        }
+    }
+}

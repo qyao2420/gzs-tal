@@ -1,0 +1,1955 @@
+{
+    "classes": [
+        "close",
+        "open",
+        "pour"
+    ],
+    "version": "1.0",
+    "taxomony": "",
+    "database": {
+        "S3_Pealate_C1": {
+            "duration": 77.86666666666666,
+            "subset": "training",
+            "num_frames": 1168,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        7.266666666666667,
+                        9.133333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        25.6,
+                        27.666666666666668
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        29.8,
+                        32.06666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        49.4,
+                        53.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        55.8,
+                        58.733333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        59.93333333333333,
+                        63.06666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        63.733333333333334,
+                        65.06666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Hotdog_C1": {
+            "duration": 43.6,
+            "subset": "training",
+            "num_frames": 654,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        15.133333333333333,
+                        18.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        19.333333333333332,
+                        22.733333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        23.133333333333333,
+                        23.466666666666665
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        27.866666666666667,
+                        30.266666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        30.533333333333335,
+                        34.06666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        34.2,
+                        35.13333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Cheese_C1": {
+            "duration": 42.2,
+            "subset": "training",
+            "num_frames": 633,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        7.4,
+                        11.333333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        14.533333333333333,
+                        15.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        16.866666666666667,
+                        22.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        22.2,
+                        23.0
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        24.866666666666667,
+                        26.6
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        26.666666666666668,
+                        29.533333333333335
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        29.666666666666668,
+                        30.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Pealate_C1": {
+            "duration": 92.2,
+            "subset": "training",
+            "num_frames": 1383,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        5.866666666666666,
+                        7.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        31.466666666666665,
+                        33.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        36.266666666666666,
+                        38.266666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        56.2,
+                        60.733333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        62.53333333333333,
+                        65.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        67.6,
+                        71.73333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        74.06666666666666,
+                        75.13333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Coffee_C1": {
+            "duration": 78.46666666666667,
+            "subset": "training",
+            "num_frames": 1177,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        5.8,
+                        8.333333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        18.6,
+                        19.466666666666665
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        21.6,
+                        22.733333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        24.666666666666668,
+                        27.533333333333335
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        30.666666666666668,
+                        32.46666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        37.53333333333333,
+                        38.46666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        41.0,
+                        41.666666666666664
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        43.733333333333334,
+                        46.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        49.266666666666666,
+                        51.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        51.53333333333333,
+                        61.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        62.666666666666664,
+                        64.06666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Tea_C1": {
+            "duration": 94.06666666666666,
+            "subset": "validation",
+            "num_frames": 1411,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        6.866666666666666,
+                        8.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        9.8,
+                        25.6
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        26.2,
+                        27.466666666666665
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        36.8,
+                        43.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        62.06666666666667,
+                        64.06666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        73.2,
+                        74.53333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        76.86666666666666,
+                        77.73333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        78.53333333333333,
+                        80.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_Coffee_C1": {
+            "duration": 79.26666666666667,
+            "subset": "training",
+            "num_frames": 1189,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        9.666666666666666,
+                        11.333333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        17.866666666666667,
+                        18.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        20.466666666666665,
+                        21.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        22.933333333333334,
+                        26.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        33.2,
+                        36.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        40.2,
+                        40.86666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        42.666666666666664,
+                        43.2
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        45.2,
+                        47.4
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        51.333333333333336,
+                        53.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        53.86666666666667,
+                        67.6
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        68.13333333333334,
+                        69.13333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Peanut_C1": {
+            "duration": 109.46666666666667,
+            "subset": "validation",
+            "num_frames": 1642,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        8.666666666666666,
+                        12.333333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        60.46666666666667,
+                        66.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        70.46666666666667,
+                        71.86666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        74.06666666666666,
+                        90.73333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        91.8,
+                        93.33333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Pealate_C1": {
+            "duration": 82.86666666666666,
+            "subset": "validation",
+            "num_frames": 1243,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        7.0,
+                        8.066666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        31.066666666666666,
+                        32.733333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        34.86666666666667,
+                        37.93333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        53.86666666666667,
+                        56.266666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        58.733333333333334,
+                        60.2
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        62.13333333333333,
+                        69.33333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        69.4,
+                        70.8
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_Tea_C1": {
+            "duration": 90.66666666666667,
+            "subset": "validation",
+            "num_frames": 1360,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        5.8,
+                        7.666666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        8.266666666666667,
+                        18.8
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        18.866666666666667,
+                        19.666666666666668
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        26.8,
+                        32.666666666666664
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        58.0,
+                        62.333333333333336
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        71.26666666666667,
+                        72.13333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        74.06666666666666,
+                        74.53333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        76.66666666666667,
+                        79.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Tea_C1": {
+            "duration": 76.66666666666667,
+            "subset": "training",
+            "num_frames": 1150,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        6.2,
+                        7.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        8.6,
+                        15.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        16.466666666666665,
+                        17.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        25.4,
+                        31.2
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        53.86666666666667,
+                        56.13333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        59.13333333333333,
+                        59.53333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        61.13333333333333,
+                        61.53333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        65.93333333333334,
+                        67.73333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Coffee_C1": {
+            "duration": 64.2,
+            "subset": "training",
+            "num_frames": 963,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        8.866666666666667,
+                        11.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        16.266666666666666,
+                        16.733333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        18.533333333333335,
+                        18.933333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        20.733333333333334,
+                        23.933333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        28.066666666666666,
+                        31.133333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        34.666666666666664,
+                        35.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        35.93333333333333,
+                        39.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        44.0,
+                        45.53333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        46.6,
+                        55.666666666666664
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        56.8,
+                        57.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_CofHoney_C1": {
+            "duration": 59.4,
+            "subset": "training",
+            "num_frames": 891,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        7.6,
+                        9.6
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        14.733333333333333,
+                        15.266666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        17.6,
+                        18.666666666666668
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        19.933333333333334,
+                        22.866666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        26.0,
+                        27.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        29.0,
+                        36.6
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        36.93333333333333,
+                        37.8
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        41.53333333333333,
+                        43.13333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        43.93333333333333,
+                        49.13333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        49.2,
+                        50.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Cheese_C1": {
+            "duration": 62.8,
+            "subset": "training",
+            "num_frames": 942,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        11.466666666666667,
+                        18.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        23.333333333333332,
+                        24.666666666666668
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        25.333333333333332,
+                        31.333333333333332
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        31.333333333333332,
+                        32.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        35.8,
+                        38.93333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        39.2,
+                        43.266666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        44.0,
+                        45.333333333333336
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_CofHoney_C1": {
+            "duration": 58.0,
+            "subset": "training",
+            "num_frames": 870,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        9.533333333333333,
+                        11.666666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        14.666666666666666,
+                        15.2
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        17.066666666666666,
+                        17.533333333333335
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        18.2,
+                        21.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        24.733333333333334,
+                        26.133333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        27.6,
+                        34.93333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        36.06666666666667,
+                        36.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        39.333333333333336,
+                        42.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        43.0,
+                        48.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        49.46666666666667,
+                        50.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Coffee_C1": {
+            "duration": 120.86666666666666,
+            "subset": "validation",
+            "num_frames": 1813,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        15.866666666666667,
+                        19.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        26.533333333333335,
+                        27.866666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        29.4,
+                        31.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        31.466666666666665,
+                        36.0
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        44.06666666666667,
+                        47.266666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        49.2,
+                        62.666666666666664
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        63.333333333333336,
+                        64.93333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        70.6,
+                        84.13333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        92.86666666666666,
+                        94.26666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        98.93333333333334,
+                        100.33333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        107.8,
+                        109.73333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Pealate_C1": {
+            "duration": 78.66666666666667,
+            "subset": "training",
+            "num_frames": 1180,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        14.333333333333334,
+                        15.466666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        22.266666666666666,
+                        23.933333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        37.333333333333336,
+                        39.8
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        44.6,
+                        47.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        59.86666666666667,
+                        61.53333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        61.86666666666667,
+                        65.06666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        65.66666666666667,
+                        66.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_Cheese_C1": {
+            "duration": 60.8,
+            "subset": "training",
+            "num_frames": 912,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        8.266666666666667,
+                        16.466666666666665
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        23.066666666666666,
+                        25.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        26.2,
+                        33.46666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        34.13333333333333,
+                        35.46666666666667
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        38.2,
+                        39.733333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        41.6,
+                        48.06666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        48.13333333333333,
+                        49.333333333333336
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Hotdog_C1": {
+            "duration": 47.8,
+            "subset": "training",
+            "num_frames": 717,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        11.4,
+                        13.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        13.2,
+                        22.066666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        22.2,
+                        23.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        26.266666666666666,
+                        28.333333333333332
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        29.133333333333333,
+                        31.533333333333335
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        31.533333333333335,
+                        32.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_Hotdog_C1": {
+            "duration": 57.4,
+            "subset": "training",
+            "num_frames": 861,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        14.133333333333333,
+                        16.066666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        16.466666666666665,
+                        31.666666666666668
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        31.8,
+                        32.8
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        35.6,
+                        37.733333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        38.666666666666664,
+                        47.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        47.46666666666667,
+                        49.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Cheese_C1": {
+            "duration": 53.6,
+            "subset": "validation",
+            "num_frames": 804,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        7.333333333333333,
+                        15.933333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        20.0,
+                        21.533333333333335
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        21.8,
+                        28.933333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        29.066666666666666,
+                        30.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        34.733333333333334,
+                        37.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        37.2,
+                        40.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        40.8,
+                        41.8
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_CofHoney_C1": {
+            "duration": 54.8,
+            "subset": "training",
+            "num_frames": 822,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        8.8,
+                        10.066666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        13.333333333333334,
+                        14.133333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        15.333333333333334,
+                        16.0
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        17.2,
+                        18.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        21.666666666666668,
+                        23.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        23.4,
+                        34.666666666666664
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        34.93333333333333,
+                        35.53333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        37.93333333333333,
+                        40.86666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        41.46666666666667,
+                        44.8
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        45.266666666666666,
+                        46.0
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S4_Peanut_C1": {
+            "duration": 62.2,
+            "subset": "training",
+            "num_frames": 933,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        7.933333333333334,
+                        10.933333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        32.2,
+                        34.93333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        37.6,
+                        39.666666666666664
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        41.0,
+                        48.4
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        48.46666666666667,
+                        49.6
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_CofHoney_C1": {
+            "duration": 82.26666666666667,
+            "subset": "training",
+            "num_frames": 1234,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        7.2,
+                        9.4
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        20.933333333333334,
+                        22.333333333333332
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        25.133333333333333,
+                        26.2
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        27.466666666666665,
+                        31.733333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        35.6,
+                        37.2
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        37.6,
+                        47.46666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        47.46666666666667,
+                        48.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        53.6,
+                        55.266666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        55.6,
+                        61.8
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        62.13333333333333,
+                        63.733333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S1_Tea_C1": {
+            "duration": 133.86666666666667,
+            "subset": "validation",
+            "num_frames": 2008,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        6.066666666666666,
+                        8.133333333333333
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        8.133333333333333,
+                        20.333333333333332
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        21.333333333333332,
+                        22.466666666666665
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        33.2,
+                        47.46666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        97.2,
+                        99.46666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        108.06666666666666,
+                        109.33333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        111.4,
+                        112.13333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        114.06666666666666,
+                        116.2
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S3_Peanut_C1": {
+            "duration": 64.2,
+            "subset": "training",
+            "num_frames": 963,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        6.2,
+                        9.466666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        27.533333333333335,
+                        31.066666666666666
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        37.0,
+                        39.733333333333334
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        45.86666666666667,
+                        50.266666666666666
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        51.4,
+                        52.666666666666664
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Peanut_C1": {
+            "duration": 97.6,
+            "subset": "training",
+            "num_frames": 1464,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        15.4,
+                        20.0
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        52.266666666666666,
+                        61.0
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        67.33333333333333,
+                        69.86666666666666
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        73.46666666666667,
+                        80.46666666666667
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        82.53333333333333,
+                        83.93333333333334
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        },
+        "S2_Hotdog_C1": {
+            "duration": 54.0,
+            "subset": "training",
+            "num_frames": 810,
+            "fps": 15,
+            "annotations": [
+                {
+                    "segment": [
+                        19.2,
+                        21.533333333333335
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        21.8,
+                        27.133333333333333
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        27.266666666666666,
+                        29.666666666666668
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                },
+                {
+                    "segment": [
+                        35.6,
+                        37.06666666666667
+                    ],
+                    "label": "open",
+                    "label_id": 1
+                },
+                {
+                    "segment": [
+                        37.06666666666667,
+                        40.733333333333334
+                    ],
+                    "label": "pour",
+                    "label_id": 2
+                },
+                {
+                    "segment": [
+                        40.8,
+                        42.53333333333333
+                    ],
+                    "label": "close",
+                    "label_id": 0
+                }
+            ]
+        }
+    }
+}
