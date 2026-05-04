@@ -1,0 +1,92 @@
+{
+    "close": {
+        "idx": 0,
+        "Elaboration": {
+            "Description": [
+                "close"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"close\"]}"
+    },
+    "fold": {
+        "idx": 1,
+        "Elaboration": {
+            "Description": [
+                "fold"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"fold\"]}"
+    },
+    "open": {
+        "idx": 2,
+        "Elaboration": {
+            "Description": [
+                "open"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"open\"]}"
+    },
+    "pour": {
+        "idx": 3,
+        "Elaboration": {
+            "Description": [
+                "pour"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"pour\"]}"
+    },
+    "put": {
+        "idx": 4,
+        "Elaboration": {
+            "Description": [
+                "put"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"put\"]}"
+    },
+    "scoop": {
+        "idx": 5,
+        "Elaboration": {
+            "Description": [
+                "scoop"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"scoop\"]}"
+    },
+    "shake": {
+        "idx": 6,
+        "Elaboration": {
+            "Description": [
+                "shake"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"shake\"]}"
+    },
+    "spread": {
+        "idx": 7,
+        "Elaboration": {
+            "Description": [
+                "spread"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"spread\"]}"
+    },
+    "stir": {
+        "idx": 8,
+        "Elaboration": {
+            "Description": [
+                "stir"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"stir\"]}"
+    },
+    "take": {
+        "idx": 9,
+        "Elaboration": {
+            "Description": [
+                "take"
+            ]
+        },
+        "Origin_Chat": "{\"Description\": [\"take\"]}"
+    }
+}
