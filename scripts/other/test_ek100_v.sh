@@ -1,0 +1,1 @@
+python ./eval.py ./configs/epic_slowfast_verb.yaml ./ckpt/epic_slowfast_verb_reproduce -epoch 20

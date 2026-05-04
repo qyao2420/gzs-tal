@@ -1,0 +1,1 @@
+python ./train.py ./configs/epic_slowfast_noun.yaml --output clip_v0 --ckpt-freq 1 --use_clip
